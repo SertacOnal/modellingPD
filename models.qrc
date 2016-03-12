@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Right_Hand.obj</file>
+        <file>Left_Hand.obj</file>
+    </qresource>
+</RCC>
